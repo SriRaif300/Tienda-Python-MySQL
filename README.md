@@ -14,7 +14,7 @@ Tecnologías Utilizadas
 - Python: Se ha utilizado Python debido a su simplicidad y versatilidad. La aplicación se beneficia de las características del lenguaje para proporcionar una experiencia de desarrollo fluida.
 - MySQL: Como base de datos relacional, MySQL se utiliza para almacenar y gestionar los datos de la tienda. Esto incluye información sobre productos, usuarios y transacciones.
 
-Instrucciones de Uso
+## Instrucciones de Uso
 
   1. Requisitos Previos:
         Asegúrate de tener Python instalado en tu sistema.
